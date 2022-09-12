@@ -1,2 +1,2 @@
-# This is collection of some small python projects that I learned from Youtube.
+# This is collection of some small projects that I learned from Youtube.
 
