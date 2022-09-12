@@ -1,7 +1,2 @@
-# Header is for "#"
+# This is collection of some small python projects that I learned from Youtube.
 
-Hello! This is my first time using Git 9/10/2022
-
-## Subheader
-
-Watch tutorial on Youtube
